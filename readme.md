@@ -13,11 +13,11 @@ I made in Windows environment so you have to setup your Deno with Windows setup
 
 - Install Chocolately (https://chocolatey.org/install)
 - The install deno using choco
-  \$ choco install deno
+  `$ choco install deno`
 - Install `make` to run your deno runnable with shortcut like `npm start`
-  \$ choco make
-- (optional) Install denon on deno - (works like nodemon for hot-reloading)
-  \$ deno install -Af --unstable https://deno.land/x/denon/denon.ts
+  `$ choco make`
+- _(optional)_ Install denon on deno - (works like nodemon for hot-reloading)
+  `$ deno install -Af --unstable https://deno.land/x/denon/denon.ts`
 
 # Usage
 
@@ -31,3 +31,4 @@ I made in Windows environment so you have to setup your Deno with Windows setup
 # TODO
 
 - Replace the chat app with better styling or other widgets
+- Fix issue with importmap on test
