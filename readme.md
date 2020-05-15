@@ -9,10 +9,10 @@ then I added some fancy icing on top.
 
 # Prerequisite
 
-I made in Windows environment so you have to setup your Deno with Windows setup
+The app is running in Windows environment so here is my setup for windows user, for mac and linux user, you can use `homebrew` instead of `choco`
 
 - Install Chocolately (https://chocolatey.org/install)
-- The install deno using choco
+- Install deno using choco
 
   `$ choco install deno`
 
