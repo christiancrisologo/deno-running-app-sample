@@ -4,7 +4,7 @@
 
 # Overview
 
-Simple app created with Deno and based from this simple tutorial : https://dev.to/aralroca/learn-deno-chat-app-37f0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+Simple app created with Deno and based from this [simple tutorial](https://dev.to/aralroca/learn-deno-chat-app-37f0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 then I added some fancy icing on top.
 
 # Prerequisite
@@ -13,10 +13,15 @@ I made in Windows environment so you have to setup your Deno with Windows setup
 
 - Install Chocolately (https://chocolatey.org/install)
 - The install deno using choco
+
   `$ choco install deno`
+
 - Install `make` to run your deno runnable with shortcut like `npm start`
+
   `$ choco make`
+
 - _(optional)_ Install denon on deno - (works like nodemon for hot-reloading)
+
   `$ deno install -Af --unstable https://deno.land/x/denon/denon.ts`
 
 # Usage
