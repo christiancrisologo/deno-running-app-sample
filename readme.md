@@ -1,11 +1,13 @@
-# Deno Chat App
+# Simple App using Deno with run, test and configs
+
+---
 
 # Overview
 
 Simple app created with Deno and based from this simple tutorial : https://dev.to/aralroca/learn-deno-chat-app-37f0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
-then added some icing on top.
+then I added some fancy icing on top.
 
-# Pre-requisite
+# Prerequisite
 
 I made in Windows environment so you have to setup your Deno with Windows setup
 
@@ -19,10 +21,12 @@ I made in Windows environment so you have to setup your Deno with Windows setup
 
 # Usage
 
-`make run` - run deno server and other args
-`make test` - run deno test
-`make debug` - run debug
-`denon` - run deno with hot reload
+| Tables       |              Are               |
+| ------------ | :----------------------------: |
+| `make run`   | run deno server and other args |
+| `make test`  |         run deno test          |
+| `make debug` |           run debug            |
+| `denon`      |    run deno with hot reload    |
 
 # TODO
 
